@@ -1,0 +1,2 @@
+# HTML reports contain computer and user names: keep them out of the repo
+security-report-*.html
